@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Turret Road', cursive;
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    padding: 50px;
+    font-size: 45px;
+    color: blue;
+}
+.inicio{
+    display: flex;
+    justify-content: space-around;
+}
+.inicio a{
+    font-weight: bolder;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 10px;
+    border: 3px solid;
+    border-color: coral;
+    background-color: rgba(4, 246, 246, 0.553);
+}
+#encabezado{
+    background-color: aquamarine;
+    height: 100%;
+}
+.tituloPrincipal{
+    padding: 50px;
+    color: rgb(3, 3, 179);
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 58px;
+    font-family: Turret Road;
+    font-weight: bolder;
+}
+.barra{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;;
+    font-size: 30px;
+}
+.barra a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(3, 150, 50);
+    padding: 10px;
+    border-radius: 10px;
+    border: 3px solid;
+    border-color: coral;
+    background-color: rgba(4, 246, 246, 0.553);
+}
+#ingresoEmpNuevo{
+    line-height: 190%;
+    margin-left: 20px;
+}
+.form h3{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 150px;
+    padding: 15px;
+    font-weight: lighter;
+    background-color: rgba(127, 255, 212, 0.428);
+}
+#entrada{
+    display: flex;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 10px;
+    justify-content: center;
+    margin-top: 50px;
+}
+#saludo{
+    display: flex;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 10px;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: rgba(127, 255, 212, 0.428);
+}
+.form p{
+    color: blue;
+    display: flex;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 10px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.form > .bienv{
+    color: black;
+    display: flex;
+    font-size: 29px;
+    font-weight: bolder;
+    padding: 10px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.terminar{
+    margin-top: 50px;
+}
+.remu{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    font-size: 30px;
+    color: brown;
+    margin-bottom: 40px;
+    background-color: rgba(4, 246, 246, 0.553);
+}
+#resp{
+    font-size: 26px;
+    font-weight: bolder;
+}

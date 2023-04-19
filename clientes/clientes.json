@@ -1,0 +1,83 @@
+[
+    {
+      "nombre": "PEPE",
+      "apellido": "GONZALEZ",
+      "cargo": 3,
+      "documento": 26538924,
+      "ingreso": 199804,
+      "clave": 1
+    },
+    {
+      "nombre": "RUSO",
+      "apellido": "PEREZ",
+      "cargo": 3,
+      "documento": 19568743,
+      "ingreso": 200404,
+      "clave": 2
+    },
+    {
+      "nombre": "GERMÁN",
+      "apellido": "RAMIREZ",
+      "cargo": 1,
+      "documento": 38320862,
+      "ingreso": 201112,
+      "clave": 3
+    },
+    {
+      "nombre": "GUALBERTO",
+      "apellido": "FERNANDEZ",
+      "cargo": 3,
+      "documento": 18533921,
+      "ingreso": 201910,
+      "clave": 4
+    },
+    {
+      "nombre": "LUIS",
+      "apellido": "SUAREZ",
+      "cargo": 1,
+      "documento": 24876331,
+      "ingreso": 201710,
+      "clave": 5
+    },
+    {
+      "nombre": "ANGELITO",
+      "apellido": "CORREA",
+      "cargo": 4,
+      "documento": 19534912,
+      "ingreso": 202111,
+      "clave": 6
+    },
+    {
+      "nombre": "LUCIANA",
+      "apellido": "GERRAIZ",
+      "cargo": 4,
+      "documento": 87654321,
+      "ingreso": 202201,
+      "clave": 7
+    },
+    {
+      "nombre": "ANGELA",
+      "apellido": "PEREIRA",
+      "cargo": 3,
+      "documento": "42395171",
+      "ingreso": 202112,
+      "clave": 8
+    },
+    {
+      "nombre": "MARIANELA",
+      "apellido": "PATRONATTO",
+      "cargo": 1,
+      "documento": "16762232",
+      "ingreso": 200108,
+      "clave": 9
+    },
+    {
+      "nombre": "YAMILA",
+      "apellido": "GRIEZMAN",
+      "cargo": 2,
+      "documento": "15657495",
+      "ingreso": 201007,
+      "clave": 10
+    }
+
+  ]
